@@ -10,10 +10,15 @@ Citrus canker poses a significant threat to citrus trees, leading to blemished l
 
 Our project leverages cutting-edge AI technology, specifically the AlexNet convolutional neural network, to accurately identify healthy citrus leaves from those affected by citrus canker in real-time. By analyzing leaf images, our system provides rapid and precise detection, enabling early intervention and preventive measures.
 
-## Key Features
+## Pairing with Drone Technology
+
+To extend our solution's capabilities, we integrate our citrus canker detection software with drone technology for real-time field surveillance. Drones equipped with our AI software conduct aerial surveys, capturing images of citrus groves. When diseased leaves are detected, the software triggers alerts with precise GPS coordinates.
+
+### Key Features
 
 - **AI-Powered Detection:** Utilizes AlexNet for high-accuracy identification of citrus canker.
-- **Early Detection Alerts:** Immediate notifications enable proactive measures.
+- **Drone Integration:** Seamless pairing with drones for aerial surveillance.
+- **Location-Based Alerts:** Instant alerts with GPS coordinates for targeted action.
 - **User-Friendly Interface:** Designed for ease of use and seamless integration.
 - **Data Analytics:** Access comprehensive analytics for informed decision-making.
 
