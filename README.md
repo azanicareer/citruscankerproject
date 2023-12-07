@@ -90,7 +90,12 @@ The graphs below indicate the training accuracy (`acc_train`) and loss over the 
 
 The high training accuracy suggests that the model has learned to distinguish between diseased and healthy citrus leaves effectively.
 
-## Pose
+## Pose Machine
+![pose](posemachine.gif)
+
+By autonomously detecting and localizing affected areas on the plants, the AI system ensures that the application of copper spray is directed precisely at the infected regions, eliminating the need for human operators to directly handle or manually apply the treatment.
+
+This not only enhances safety protocols in agricultural practices but also minimizes the risk of exposure to harmful chemicals for workers in citrus orchards.
 
 
 ## Why Choose Us
