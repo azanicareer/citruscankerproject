@@ -7,7 +7,7 @@ Welcome to our AI-powered solution designed to detect and combat citrus canker, 
 
 ## The Problem
 
-The Florida wine industry generates approximately $7 billion for the Florida economy.
+The Florida citrus industry generates approximately $7 billion for the Florida economy.
 
 Citrus canker poses a significant threat to citrus trees, leading to blemished leaves, reduced yields, and economic losses for farmers. Traditional detection methods often fall short, requiring time-consuming visual inspections.
 
