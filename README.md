@@ -1,4 +1,7 @@
-# AI for Citrus Canker Detection
+# CitriCare AI: Citrus Canker detection
+<p align="center">
+  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/logo2.jpg" alt="Logo">
+</p>
 
 Welcome to our AI-powered solution designed to detect and combat citrus canker, a prevalent disease impacting citrus crops globally.
 
