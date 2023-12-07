@@ -52,6 +52,29 @@ To extend our solution's capabilities, we integrate our citrus canker detection 
 - **User-Friendly Interface:** Designed for ease of use and seamless integration.
 - **Data Analytics:** Access comprehensive analytics for informed decision-making.
 
+## Results 
+
+The graphs below indicate the training accuracy (`acc_train`) and loss over the course of the training runs:
+
+### Accuracy 
+<p align="left">
+  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/W%26B%20Chart%2012_7_2023%2C%2012_59_56%20PM.png" alt="Diseased leaf">
+</p>
+
+### Loss
+<p align="left">
+  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/unhealthyleaf.png" alt="Diseased leaf">
+</p>
+
+### Run Summary
+
+- **Training Accuracy**: 87.5%
+- **Loss**: 0.4695
+
+
+The high training accuracy suggests that the model has learned to distinguish between diseased and healthy citrus leaves effectively.
+https://github.com/azanicareer/citruscankerproject/blob/main/W%26B%20Chart%2012_7_2023%2C%2012_59_56%20PM.png
+
 ## Technology
 
 Our system is trained on a diverse dataset, ensuring reliability and accuracy in detection. The AlexNet architecture empowers our solution with robust and precise capabilities.
