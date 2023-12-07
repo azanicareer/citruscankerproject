@@ -1,6 +1,6 @@
 # CitriCare AI: Citrus Canker detection
 <p align="center">
-  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/logo3.jpg" alt="Logo">
+  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/logo3.jpg" alt="Logo" width="200">
 </p>
 
 Welcome to our AI-powered solution designed to detect and combat citrus canker, a prevalent disease impacting citrus crops globally.
@@ -11,11 +11,13 @@ The Florida wine industry generates approximately $7 billion for the Florida eco
 
 Citrus canker poses a significant threat to citrus trees, leading to blemished leaves, reduced yields, and economic losses for farmers. Traditional detection methods often fall short, requiring time-consuming visual inspections.
 
-### Leaf afflicted by citrus canker sores
+### Citrus leaf afflicted by citrus canker
 <p align="left">
   <img src="https://github.com/azanicareer/citruscankerproject/blob/main/Canker%20orange%20data%20deck%20(5).png" alt="Diseased leaf">
 </p>
-https://github.com/azanicareer/citruscankerproject/blob/main/Canker%20orange%20data%20deck%20(5).png
+
+### Healthy citrus leaf
+
 
 ## Our Solution
 
