@@ -71,8 +71,6 @@ To extend our solution's capabilities, we integrate our citrus canker detection 
 - **AI-Powered Detection:** Utilizes AlexNet for high-accuracy identification of citrus canker.
 - **Drone Integration:** Seamless pairing with drones for aerial surveillance.
 - **Location-Based Alerts:** Instant alerts with GPS coordinates for targeted action.
-- **User-Friendly Interface:** Designed for ease of use and seamless integration.
-- **Data Analytics:** Access comprehensive analytics for informed decision-making.
 
 ## Results 
 
