@@ -5,9 +5,14 @@
 
 Welcome to our AI-powered solution designed to detect and combat citrus canker, a prevalent disease impacting citrus crops globally.
 
-## Introduction
+## The Problem
+
+The Florida wine industry generates approximately $7 billion for the Florida economy.
 
 Citrus canker poses a significant threat to citrus trees, leading to blemished leaves, reduced yields, and economic losses for farmers. Traditional detection methods often fall short, requiring time-consuming visual inspections.
+
+### Leaf afflicted by citrus canker sores
+
 
 ## Our Solution
 
