@@ -16,14 +16,14 @@ Citrus canker poses a significant threat to citrus trees, leading to blemished l
   <img src="https://github.com/azanicareer/citruscankerproject/blob/main/unhealthyleaf.png" alt="Diseased leaf">
 </p>
 
-### Canker afflicted orange
-<p align="left">
-  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/unhealthyleaf.png" alt="Diseased leaf">
-</p>
-
 ### Healthy citrus leaf
 <p align="left">
   <img src="https://github.com/azanicareer/citruscankerproject/blob/main/Canker%20orange%20data%20deck%20(1).png" alt="Healthy leaf">
+</p>
+
+### Canker afflicted orange
+<p align="left">
+  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/cankerorange.jpg" width=300>
 </p>
 
 
