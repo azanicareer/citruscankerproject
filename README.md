@@ -22,10 +22,28 @@ Citrus canker poses a significant threat to citrus trees, leading to blemished l
 </p>
 
 
-
 ## Our Solution
 
-Our project leverages cutting-edge AI technology, specifically the AlexNet convolutional neural network, to accurately identify healthy citrus leaves from those affected by citrus canker in real-time. By analyzing leaf images, our system provides rapid and precise detection, enabling early intervention and preventive measures.
+Our project uses the AlexNet convolutional neural network to accurately identify healthy citrus leaves from those affected by citrus canker in real-time. By analyzing leaf images, our system provides rapid and precise detection, enabling early intervention and preventive measures.
+Convolutional Layers
+ Certainly! Here it is formatted for a README:
+
+### Convolutional Layers
+
+- AlexNet's convolutional layers scan the input image in small chunks called filters or kernels.
+- Each filter extracts specific features (like edges or textures) by performing element-wise operations and summing up the results with the corresponding part of the input image.
+
+### Feature Maps
+
+- As the filters move across the image, they create feature maps that capture different aspects such as edges, colors, or patterns.
+- Each filter generates a feature map, highlighting areas where the filter's specific feature is present.
+  <p align="center">
+  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/image%20filter.png" alt="feature map" width= "300">
+</p>
+
+### Hierarchical Representations
+
+- Feature maps are used to enable the network to understand the input data at multiple levels of abstraction, gradually learning intricate patterns and features.
 
 ## Advantages of Early Detection 🍃
 
@@ -71,19 +89,7 @@ The graphs below indicate the training accuracy (`acc_train`) and loss over the 
 - **Training Accuracy**: 84.4%
 - **Loss**: 0.4695
 
-
-## Feature Maps
-<p align="left">
-  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/image%20filter.png" alt="feature map" width= "500">
-</p>
-
-
 The high training accuracy suggests that the model has learned to distinguish between diseased and healthy citrus leaves effectively.
-
-
-## Technology
-
-Our system is trained on a diverse dataset, ensuring reliability and accuracy in detection. The AlexNet architecture empowers our solution with robust and precise capabilities.
 
 ## Why Choose Us
 
