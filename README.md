@@ -109,3 +109,6 @@ This not only enhances safety protocols in agricultural practices but also minim
 
 ## Contact Us
 citricare@gmail.com
+
+[Alex Net notebook](https://colab.research.google.com/drive/192iLns1gCecYs35qWTvhV9585Lml6Rcz?usp=sharing)
+
