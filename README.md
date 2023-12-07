@@ -58,18 +58,24 @@ The graphs below indicate the training accuracy (`acc_train`) and loss over the 
 
 ### Accuracy 
 <p align="left">
-  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/W%26B%20Chart%2012_7_2023%2C%2012_59_56%20PM.png" alt="Diseased leaf">
+  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/W%26B%20Chart%2012_7_2023%2C%2012_59_56%20PM.png" alt="Accuracy">
 </p>
 
 ### Loss
 <p align="left">
-  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/unhealthyleaf.png" alt="Diseased leaf">
+  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/W%26B%20Chart%2012_7_2023%2C%201_02_30%20PM.png" alt="Loss">
 </p>
 
 ### Run Summary
 
-- **Training Accuracy**: 87.5%
+- **Training Accuracy**: 84.4%
 - **Loss**: 0.4695
+
+
+## Feature Maps
+<p align="center">
+  <img src="" alt="Logo">
+</p>
 
 
 The high training accuracy suggests that the model has learned to distinguish between diseased and healthy citrus leaves effectively.
