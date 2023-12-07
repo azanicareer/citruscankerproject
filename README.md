@@ -73,13 +73,13 @@ The graphs below indicate the training accuracy (`acc_train`) and loss over the 
 
 
 ## Feature Maps
-<p align="center">
-  <img src="" alt="Logo">
+<p align="left">
+  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/image%20filter.png" alt="feature map" width= "500">
 </p>
 
 
 The high training accuracy suggests that the model has learned to distinguish between diseased and healthy citrus leaves effectively.
-https://github.com/azanicareer/citruscankerproject/blob/main/W%26B%20Chart%2012_7_2023%2C%2012_59_56%20PM.png
+
 
 ## Technology
 
@@ -91,6 +91,5 @@ Our system is trained on a diverse dataset, ensuring reliability and accuracy in
 - **Expertise:** Our team comprises skilled AI engineers with agricultural insights.
 - **Impact:** Empowering farmers with advanced technology for sustainable agriculture.
 
-## Get Involved
-
-Join us in revolutionizing agriculture! Partner with our project to combat citrus canker effectively, safeguard citrus crops, and promote agricultural sustainability.
+## Contact Us
+citricare@gmail.com
