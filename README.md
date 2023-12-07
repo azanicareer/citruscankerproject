@@ -13,7 +13,7 @@ Citrus canker poses a significant threat to citrus trees, leading to blemished l
 
 ### Citrus leaf afflicted by citrus canker
 <p align="left">
-  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/Canker%20orange%20data%20deck%20(5).png" alt="Diseased leaf">
+  <img src="https://github.com/azanicareer/citruscankerproject/blob/main/unhealthyleaf.png" alt="Diseased leaf">
 </p>
 
 ### Healthy citrus leaf
