@@ -25,8 +25,7 @@ Citrus canker poses a significant threat to citrus trees, leading to blemished l
 ## Our Solution
 
 Our project uses the AlexNet convolutional neural network to accurately identify healthy citrus leaves from those affected by citrus canker in real-time. By analyzing leaf images, our system provides rapid and precise detection, enabling early intervention and preventive measures.
-Convolutional Layers
- Certainly! Here it is formatted for a README:
+
 
 ### Convolutional Layers
 
@@ -90,6 +89,9 @@ The graphs below indicate the training accuracy (`acc_train`) and loss over the 
 - **Loss**: 0.4695
 
 The high training accuracy suggests that the model has learned to distinguish between diseased and healthy citrus leaves effectively.
+
+## Pose
+
 
 ## Why Choose Us
 
